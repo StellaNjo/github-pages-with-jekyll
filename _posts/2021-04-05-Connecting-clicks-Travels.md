@@ -1,6 +1,7 @@
 ---
-Title "Connecting Clicks Travels"
-Connecting Services
+title: "Connecting Clicks Travels"
+date: 2021-04-05
+
 
 Connecting Clicks offers Hospitality, Tourism and travel services to groups & individuals, of all age groups, different interest groups and budgets.
 Tours.
