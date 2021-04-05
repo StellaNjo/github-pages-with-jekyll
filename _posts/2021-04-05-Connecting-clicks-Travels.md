@@ -1,3 +1,5 @@
+---
+Title "Connecting Clicks Travels"
 Connecting Services
 
 Connecting Clicks offers Hospitality, Tourism and travel services to groups & individuals, of all age groups, different interest groups and budgets.
@@ -11,3 +13,4 @@ Types of Tours
 Day tours
 Half day tours
 Full day tours
+---
